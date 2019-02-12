@@ -1,6 +1,6 @@
-# Services & Dependency Injection
+# Course Project - Routing
 
-![image](https://user-images.githubusercontent.com/2049888/52230935-0290f700-288f-11e9-8e0b-62fda06a3ac9.png)
+![image](https://user-images.githubusercontent.com/2049888/52663525-38f8f280-2edd-11e9-9224-cdc4046fc7d4.png)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
